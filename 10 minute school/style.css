@@ -1,0 +1,302 @@
+.card{
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 1px 2px 4px black;
+    border-radius: 20px;
+}
+
+
+.card2{
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 1px 2px 4px black;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-top: -350px;
+}
+
+.card4{
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 1px 2px 4px black;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-top: -350px;
+}
+.another3{
+    margin-left: 260px;
+    margin-top: -211px;
+}
+
+
+.another4{
+    margin-left: 530px;
+    margin-top: -213px;
+}
+
+.another5{
+    margin-left: 790px;
+    margin-top: -213px;
+}
+.mehedi1{
+    height: 250px;
+    width: 234px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 3px black;
+
+}
+
+
+.jakir2{
+    height: 250px;
+    width: 234px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 3px black;
+
+}
+
+
+
+.husain3{
+    height: 250px;
+    width: 234px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 3px black;
+
+}
+
+
+.hasan4{
+    height: 250px;
+    width: 234px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 3px black;
+
+}
+.high{
+    height: 40px;
+    width: 200px;
+    color: green;
+    margin-left: 500px;
+    border-radius: 10px;
+}
+
+
+.high:hover{
+  
+  
+    color: black;
+   cursor: pointer;
+    border-radius: 10px;
+    background-color: brown;
+}
+.baby{
+    height: 30px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: green;
+    cursor: pointer;
+}
+
+.skill{
+    height: 30px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: green;
+    cursor: pointer;
+    margin-left: 170px;
+    margin-top: -31px;
+}
+
+.professional{
+    height: 30px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: green;
+    cursor: pointer;
+    margin-left: 350px;
+    margin-top: -32px;
+}
+
+.job{
+    height: 30px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: green;
+    cursor: pointer;
+    margin-left: 520px;
+    margin-top: -33px;
+}
+
+.Competitive {
+    height: 30px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: green;
+    cursor: pointer;
+    margin-left: 690px;
+    margin-top: -34px;
+}
+
+.card-skill{
+    height:300px;
+    width: 342px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px black;
+    border-radius: 20px;
+}
+
+
+.card-skill:hover{
+   
+    box-shadow: 5px 10px 15px black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+
+.card-text-body{
+    text-align: center;
+    color: brown;
+}
+.bistarito{
+    text-decoration: none;
+    margin-top: -10px;
+}
+.card-2{
+    height: 300px;
+    width: 338px;
+    background-color: white;
+    box-shadow: 1px 2px 4px black;
+}
+.card-2{
+    margin-left: 500px;
+    margin-top: -340px;
+    border-radius: 20px;
+}
+
+.card-2:hover{
+box-shadow: 5px 10px 15px black;
+cursor: cell;
+
+}
+.google{
+    height: 60px;
+    width: 200px;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    margin-left: 40%;
+    cursor: pointer;
+  
+}
+.footer{
+    display: flex;
+}
+.blog{
+    margin-left: 30px;
+}
+
+.download{
+    margin-top: 150px;
+}
+.kompani{
+    margin-left: 20px;
+}
+.jugajug{
+    margin-left: 40px;
+  
+}
+.comment{
+    height: 300px;
+    width: 300px;
+ border: 2px solid brown;
+ background-color: brown;
+ color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.input1{
+    width: 280px;
+    height: 15px;
+}
+.input2{
+    width: 280px;
+    height: 15px;
+    margin-top: 10px;
+}
+.input3{
+    width: 280px;
+    height: 100px;
+    margin-top: 10px;
+}
+.mailto:hover{
+    height: 50px;
+    width: 210px;
+    background-color: green;
+    border-radius: 10px;
+    margin-left: 20%;
+
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    margin-top: -300px;
+    margin-left: 200px;
+   
+}
+.form-box{
+    padding: 10px;
+    border-radius: 5px;
+    background-color:#ececec;
+    box-shadow: 2px 2px 2px  black;
+    box-shadow: 10px 10px 10px white;
+}
+.form-box input{
+    font-size: 18px;
+    color: black;
+    padding: 15px 10px;
+    border: none;
+    outline: none;
+    background: #ececec;
+}
+.form-box button{
+  color:#fff;
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #4769d8;
+  cursor: pointer;
+  transition: .03s;
+}
+
+.form-box button:hover{
+  background-color: #2e54d3;
+}
+input{
+box-shadow:2px 2px 2px black;
+
+}
+.baba{
+    background-color: brown;
+    color: wheat;
+    height: 370px;
+}
+
+
+
+
